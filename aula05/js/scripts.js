@@ -1,24 +1,39 @@
-console.log("Primeiro");
+var teste = 1;
 
-console.log("Último");
+var nome = "João";
 
-console.LOG("Mais um console.log");
+console.log(teste);
 
-// Declara uma variável
-var a = 1;
+teste = 'Matheus';
 
-a = 'teste'
+console.log(teste);
 
-console.log(a)
+console.log(nome);
 
-// Este é um comentário
+var $nome = 'ASD';
+var _nome = 'ASD2';
 
-/*
-    Este
-    é
-    um
-    comentário
-    de
-    múltiplas
-    linhas
-*/
+console.log($nome);
+console.log(_nome);
+
+var nome5 = 'ASD3';
+
+console.log(nome5);
+
+var meuPrimeiroNome = 'Matheus'; // camelCase
+
+console.log(meuPrimeiroNome);
+
+var meuprimeironome = "Battisti";
+
+console.log(meuprimeironome);
+
+let testando = 1;
+const ola = 2;
+
+console.log(testando);
+console.log(ola);
+
+var meuNome;
+
+meuNome = "Matheus";
