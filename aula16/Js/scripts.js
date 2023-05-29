@@ -7,8 +7,8 @@ if (nome = "Luis" && idade = 16) {
     console.log("Este não é o Luis");
 }
 
-if ((1 === 1) && (3 > 2) && (true)) {
+if (1 === 1 && 3 > 2 && true) {
     console.log("passou");
-} else if((nome === "João") && (idade >= 14)) {
+} else if(nome === "João" && idade >= 14) {
     console.log("Aqui passa!");
 }
